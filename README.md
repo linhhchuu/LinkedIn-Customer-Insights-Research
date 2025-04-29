@@ -37,12 +37,12 @@ The research was conducted in **two phases**:
 - A **value gap** persists between what students expect from Premium and what they experience, suggesting opportunities for better product communication and feature development.
 
 ## Recommendations for Next Steps
-- Short-term: Utilizing ad campaign to drive social feature usage and improve the gap in Premium perception for low-engaged segments
-  - Improve Product Marketing: Target users with low usage through message placement to remind users of relevant existing Premium features 
-  - Close the value gap of Cluster 1 and 2: Tailor Ad campaigns to improve Premium value proposition for cluster 1 & 2 through understanding of cluster 3’s engagement patterns
-- Long-term: Leveraging customer-centric insights to inform product development opportunities
-  - Conduct research from a product-centric approach: Transition from a customer-centric research to a product-centric strategy to align resources and focus on delivering high-value features that meet specific user needs and drive product differentiation
-  - Analyze development costs and revenue potential: Evaluate the investment required for product development versus the expected lift in conversion, retention, and CLV.
+- **Short-term:** Utilizing ad campaign to drive social feature usage and improve the gap in Premium perception for low-engaged segments
+  - _Improve Product Marketing:_ Target users with low usage through message placement to remind users of relevant existing Premium features 
+  - _Close the value gap of Cluster 1 and 2:_ Tailor Ad campaigns to improve Premium value proposition for cluster 1 & 2 through understanding of cluster 3’s engagement patterns
+- **Long-term:** Leveraging customer-centric insights to inform product development opportunities
+  - _Conduct research from a product-centric approach_: Transition from a customer-centric research to a product-centric strategy to align resources and focus on delivering high-value features that meet specific user needs and drive product differentiation
+  - _Analyze development costs and revenue potential:_ Evaluate the investment required for product development versus the expected lift in conversion, retention, and CLV.
 
 ## Business Impact
 - Potential for increased **Premium subscription rate** among early-career users
